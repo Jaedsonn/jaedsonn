@@ -1,6 +1,6 @@
 
 # Olá, meu nome é Jaedson! 
-Sou um estudante de programação visando, atualmente, podre atuar como pilha completa, por dez vezes mais interesse na área de back-end.
+Sou um estudante de programação visando, atualmente, poder atuar como pilha completa, por dez vezes mais interesse na área de back-end.
 
 ---
 
