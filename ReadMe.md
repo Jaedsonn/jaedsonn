@@ -4,23 +4,20 @@ Sou um estudante de programação visando, atualmente, poder atuar como pilha co
 
 ---
 
-<p alinhar="centro">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jaedsonn&show_icons=true&theme=dark">
+
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF)
+
  
-</p>
+
 
 ---
-<p alinhar="centro">
+## TECNOLOGIAS
 
-  <a href="https://www.javascript.com/" alvo="_em branco">
-    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style = quadrado plano&logo = javascript&logoColor = preto " alt="JavaScript">
-  </a>
-  <a href="https://html.com/" alvo="_em branco">
-    <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style = quadrado plano&logo = html5&logoColor = branco " alt="HTML">
-  </a>
-  <a href="https://www.w3.org/Style/CSS/Overview.en.html" alvo="_em branco">
-    <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style = quadrado plano&logo = css3&logoColor = branco " alt="CSS">
-  </a>
- 
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-</p>
+## TOOLS
+
+  ![Git](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=white)
+
