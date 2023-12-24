@@ -5,7 +5,7 @@ Sou um estudante de programação visando, atualmente, poder atuar como pilha co
 ---
 
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaedsonn&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF)
 
  
 
