@@ -23,6 +23,3 @@ Sou um estudante de programação visando, atualmente, poder atuar como pilha co
 ## TOOLS
 
   ![Git](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=white)
-
-## ESTUDANDO NO MOMENTO
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
