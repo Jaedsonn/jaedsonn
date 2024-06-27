@@ -1,6 +1,6 @@
 
-# Olá, meu nome é Jaedson! 
-Sou um estudante de programação visando, atualmente, poder atuar como pilha completa, por dez vezes mais interesse na área de back-end.
+# Olá, meu nome é Jaedson!
+Olá pessoal, meu nome é Jaedson Barbosa Macedo e eu sou um desenvolvedor com foco, atualmente, no frontend. Venho aqui compartilhar projetos que eu construí ao longo da minha carreira, aqueles em que eu possa mostrar meu domínio sobre as tecnologias que estudo. Por isso, se for do seu interesse, navegue por aqui e procure projetos que lhe interessam para você estudar ou usar como inspiração
 
 ---
 
@@ -24,7 +24,3 @@ Sou um estudante de programação visando, atualmente, poder atuar como pilha co
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-
-## TOOLS
-
-  ![Git](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=white)
