@@ -13,13 +13,9 @@
 📊 Entusiasta da área de algoritmos do qual me interessa a linha de ráciocínio lógica por trás da formação de um algoritmo, seu processo de construção e análise. Além das suas aplicação em diversos tipos de soluções ao redor do mundo
 
 ---
-
-![Jaedsonn's Stats](https://github-readme-stats.vercel.app/api?username=Jaedsonn&theme=tokyonight&show_icons=true&hide_border=false&count_private=false)
-![Jaedsonn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaedsonn&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+&nbsp;
 
 ## 🧠 Tech Stack
-
-&nbsp;
 
 <table align="start">
   <tr>
@@ -38,13 +34,11 @@
 
 &nbsp;
 ---
+![Jaedsonn's Stats](https://github-readme-stats.vercel.app/api?username=Jaedsonn&theme=tokyonight&show_icons=true&hide_border=false&count_private=false)
+![Jaedsonn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaedsonn&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+
+
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" style="max-width: 100%;" />
-</p>
-
-<p align="right">
-  <a href="#top">
-    <img src="https://img.shields.io/badge/Back%20to%20Top%20⬆️-8A2BE2?style=for-the-badge&logoColor=white"/>
-  </a>
 </p>
 
