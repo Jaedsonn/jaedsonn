@@ -6,7 +6,7 @@
 
 🎓 Graduando em Ciência da computação pela Universidade Federal da Bahia
 
-👨‍💻 Atualmente, atuo como desenvolvedor frontend voluntário na InfoJr UFBA - Empresa de Informática Júnior da UFBA
+👨‍💻 Atualmente, atuo como desenvolvedor de software na Avantsoft Software
 
 ⚙️ Proficiente em uma gama de tecnologias incluíndo, Javascript/Typescirpt, Java, Nodejs, ExpressJs, Prismic, NextJs, python e C/C++
 
