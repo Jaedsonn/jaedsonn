@@ -20,13 +20,10 @@ Currently building search & information retrieval systems. Teaching advanced alg
 - [**Lapadarie**](https://github.com/Jaedsonn/lapadarie-front) — Bakery management system in production. `Next.js · TypeScript · TailwindCSS`
 - [**Problem Solving**](https://github.com/Jaedsonn/ProblemSolving) — Competitive programming solutions (Codeforces, LeetCode, CSES). `C++`
 
-## Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Jaedsonn&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Jaedsonn&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jaedsonn&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-</picture>
+## Stats
+ 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaedsonn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 
 ---
 
