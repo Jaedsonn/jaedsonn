@@ -23,7 +23,8 @@ Currently building search & information retrieval systems. Teaching advanced alg
 
 ## Stats
  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaedsonn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Jaedsonn&show_icons=true&include_all_commits=true&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api?username=Jaedsonn&show_icons=true&include_all_commits=true&theme=ambient_gradient)
+
 
 ---
 
